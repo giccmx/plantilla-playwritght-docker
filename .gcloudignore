@@ -1,0 +1,30 @@
+# Ignorar archivos temporales
+*.log
+*.tmp
+temp/
+
+# Ignorar dependencias locales
+venv/
+
+# Ignorar archivos de configuración
+.env
+.vscode/
+__pycache__/
+.DS_Store
+
+# Ignorar archivos y rutas de pruebas
+test/
+test.py
+test.ipynb
+unit_test.py
+test_unit.py
+test_post.py
+*.db
+.env
+requirements_local.txt
+
+# Ignorar archivos de repositorios
+.gitignore
+.gcloudignore
+README.md
+openapi.yaml

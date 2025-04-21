@@ -3,9 +3,6 @@ import time
 import logging
 from datetime import datetime
 
-def __init__():
-    pass
-
 def format_time_exec(initial):
     try:
         fin = time.time()
